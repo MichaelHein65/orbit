@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+
+# Lokale Pakete und Python-Cache
+*.zip
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Ursprüngliche Screenshots; kuratierte Bilder liegen in docs/images/
+/ORBIT-*.png

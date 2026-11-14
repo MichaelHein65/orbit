@@ -1,0 +1,12 @@
+{
+  "release": "orbit-touch-20261114T085143Z",
+  "backup": "/home/pi4/deploy-backups/orbit-touch-20261114T085143Z",
+  "verified_files": 2,
+  "urls": [
+    "https://ai-radio.cc/orbit/"
+  ],
+  "updates": {
+    "orbit": "45acfbb230a63657a08e",
+    "interval_seconds": 60
+  }
+}

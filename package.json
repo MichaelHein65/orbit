@@ -1,0 +1,19 @@
+{
+  "name": "orbit-flight-15",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "python3 -m http.server 8080 --bind 127.0.0.1",
+    "test": "node --test data.test.js update-check.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Interaktiver Starship-Globus f\u00fcr Desktop und Raspberry Pi 4",
+  "dependencies": {
+    "esbuild": "^0.25.11",
+    "three": "^0.180.0"
+  },
+  "private": true,
+  "type": "module"
+}
